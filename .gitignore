@@ -1,3 +1,5 @@
 .idea
 */vendor
 vendor
+docker-infra/*/data/
+docker-infra/**/data/
